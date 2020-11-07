@@ -7,7 +7,7 @@ This is a framework of React project.
 - main
   - This is an original Template. Don't use this branch.
 - develop
-  - This is branch is for fixing original template.
+  - This branch is for fixing original template.
 - ○○○-template
   - This is an each templates
 
