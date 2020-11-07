@@ -6,7 +6,7 @@ const App = () => {
     <>
       <h4>React Framework</h4>
       <p>This is a React Framework</p>
-      <Button variant="contained" color="primary">Test</Button>
+      <Button variant="contained" color="primary">sample button</Button>
     </>
   );
 }
