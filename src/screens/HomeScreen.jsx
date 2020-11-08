@@ -4,7 +4,7 @@ const HomeScreen = () => {
     return (
     <>
     <h4>HOME</h4>
-    <p>This is a Home</p>
+    <p>This is a Home Screen.</p>
     </>
     )
 };
